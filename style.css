@@ -33,8 +33,6 @@ body {
   transform: translateY(-2px);
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
-
-
 .btn{display:inline-block;padding:10px 14px;border-radius:10px;background:linear-gradient(90deg,var(--accent),#7c3aed);color:#021124;text-decoration:none;font-weight:600;margin-right:8px}
 .btn.outline{background:transparent;border:1px solid rgba(255,255,255,0.08);color:inherit}
 .hero-right .stats{display:flex;gap:14px}
@@ -59,4 +57,5 @@ footer{opacity:0.9;padding:10px}
   .hero-right .stats{flex-wrap:wrap}
 
 }
+
 
